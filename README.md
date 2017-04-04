@@ -1,1 +1,3 @@
-# Javascript
+# JavaScript
+
+JavaScript tasks and problems
